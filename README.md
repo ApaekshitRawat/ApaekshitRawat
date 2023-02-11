@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ApaekshitRawat
 - 👀 I’m interested in ... Development 
-- 🌱 I’m currently learning ... Scala lang
+- 🌱 I’m currently learning ... React JS
 - 💞️ I’m looking to collaborate on ...Projects for my growth 
 - 📫 How to reach me ... Apekshitrawat@gmail.com
 
